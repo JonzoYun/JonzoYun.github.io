@@ -170,7 +170,6 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("../img/header.jpg");
-  opacity: 0.5;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -187,14 +186,13 @@ header.masthead h1{
   font-size: 4rem;
   color: red;
   font-weight: bold;
-  opacity: 1.0;
 }
 
 
 header.masthead p {
   font-weight: 900;
   color: red;
-  opacity: 1.0;
+  margin-bottom: 500px;
 }
 
 @media (min-width: 768px) {
